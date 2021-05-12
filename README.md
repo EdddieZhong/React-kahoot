@@ -1,10 +1,8 @@
 # ReactJS: Kahoot
 
-
 ## 0. Change Log
 
-* 02/04: Removed line "There is no lowered expectations for students working on their own - you will be assessed the same as the pairs"
-* 02/04: Increaseing 2.1, 2.2, 2.3, 2.4 secion worths to match marking criteria
+* 12/05: update the descreption.
 
 ## 1. The Back-end (Provided)
 
